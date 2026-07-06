@@ -57,7 +57,7 @@ mapping for healthcare interoperability.
 ```
 Hospital Information Systems
 (EMR, LIS, RIS, Pharmacy, Radiology)
-           ↕  HL7 v2.x (TCP/IP)
+           ↕  HL7 v2.x (TCP / IP)
    OPENLink Integration Engine
    (Message Routing & Transformation)
            ↕  HL7 v2.x / CCL
