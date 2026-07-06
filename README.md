@@ -42,7 +42,7 @@ mapping for healthcare interoperability.
 - Configured routing rules to accurately transform and direct messages across connected clinical departments
 
 #### System Configuration & Connectivity
-- Configured communication protocols (MLLP, TCP/IP) for stable, secure data transmission
+- Configured communication protocols (TCP/IP) for stable, secure data transmission
 - Established system connections between Oracle Cerner products and hospital department systems
 - Managed transaction flows to ensure reliable, timely HL7 message delivery
 
@@ -91,7 +91,7 @@ Hospital Information Systems
 | EHR Platform | Oracle Cerner Millennium |
 | Database Querying | CCL (Cerner Command Language) |
 | HL7 Standards | v2.x — ADT, ORU, ORM, MDM |
-| Protocol | MLLP, TCP/IP |
+| Protocol | TCP/IP |
 | Testing | POSTMAN |
 
 ### 💼 Work Details
